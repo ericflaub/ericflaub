@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ericflaub
 - 👀 I’m interested in all things data science, statistics, and economics
-- 🌱 I’m currently learning python and R
+- 🌱 I’m currently work in python and R
 - 💞️ I’m looking to collaborate on any kind of data science project
 - 📫 Email: ef.laub@gmail.com
 
